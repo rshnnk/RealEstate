@@ -1,0 +1,11 @@
+.wrapp {
+  margin: 0 auto;
+  width: 1150px;
+  overflow: hidden;
+  background: url("../img/wrapp_bg.png") repeat;
+}
+.content-wrapp {
+  margin: 0 auto;
+  width: 1000px;
+  overflow: hidden;
+}
